@@ -24,7 +24,7 @@ Its impressive extensibility, scalability, and dedicated community make it the i
   * Transparent, core-based pricing remains affordable as you grow
 
 * Maintain ultimate control
-  * Decide how and where your IAM system and identity data are deployed–on-premises, in your chosen cloud environment, or let WSO2 host your very own Private Identity Cloud
+  * Decide how and where your IAM system and identity data are deployed on-premises, in your chosen cloud environment, or let WSO2 host your very own Private Identity Cloud
   * Highly extensible architecture encourages customization to suit your needs
   * Open-source transparency lends confidence in code quality
 
