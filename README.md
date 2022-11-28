@@ -27,6 +27,11 @@ Its impressive extensibility, scalability, and dedicated community make it the i
   * Decide how and where your IAM system and identity data are deployed on-premises, in your chosen cloud environment, or let WSO2 host your very own Private Identity Cloud
   * Highly extensible architecture encourages customization to suit your needs
   * Open-source transparency lends confidence in code quality
+  
+* Italian PA compliant
+  * SPID
+  * CIE
+  * CNS
 
 Find out more: https://wso2.com/identity-server/ <br>
 GIT repository: https://github.com/wso2/product-is <br>
